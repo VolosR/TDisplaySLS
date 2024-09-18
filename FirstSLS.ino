@@ -1,5 +1,4 @@
 #include "LV_Helper.h"
-#include "utilities.h"
 #include "ui.h"
 
 void setup() {
